@@ -1,0 +1,60 @@
+{
+    "short_summary": "Results-oriented Full Stack Software Engineer with 4+ years of experience building scalable cross-platform mobile applications using Flutter and React Native. Proficient in Node.js, Express, TypeScript, and GraphQL. Passionate about delivering high-quality, user-centric software.",
+    "technical_skills": [
+        "Programming languages (e.g., Dart, JavaScript, TypeScript)",
+        "Frameworks and libraries (Flutter, React Native, React, Express, Node.js, GraphQL)",
+        "Databases (e.g., MySQL, MongoDB)",
+        "Cloud platforms (e.g., AWS, GCP)",
+        "Tools (e.g., Git, VS Code)",
+        "Soft Skills:",
+        "Problem-solving",
+        "Teamwork",
+        "Communication",
+        "Adaptability"
+    ],
+    "experiences": [
+        {
+            "title": "CyberSecurity Engineer, International Airline in Australia",
+            "period": "September 2023 - Present",
+            "location": "Australia",
+            "key_achievements": [
+                "Developed a secure vulnerability management system using GitHub Dependabot, Jira, and AWS Lambda",
+                "Championed OWASP top 10 security best practices to ensure secure code development",
+                "Significantly accelerated vulnerability resolution and fostered a security-first culture within the team",
+                "Improved code quality and maintainability through automated testing and code reviews"
+            ],
+            "technical_skills": "React, AWS Lambda, AWS CloudFormation/Terraform, DynamoDB, Docker, GitHub Actions, NIST Cybersecurity Framework, OWASP Top 10"
+        },
+        {
+            "title": "Fullstack Software Engineer, Large Online Employment Marketplaces in Australia",
+            "period": "November 2021 - June 2023",
+            "location": "Australia",
+            "key_achievements": [
+                "Designed and built a learning and community platform to foster interaction among job seekers.",
+                "Optimized data fetching efficiency by implementing a GraphQL chain request feature.",
+                "Consolidated multiple applications into a unified platform through a seamless user migration process and foolproof hard update system."
+            ],
+            "technical_skills": "Technical Skills: React Native, Express, GraphQL, TypeScript, AWS Lambda, AWS Fargate, AuroraDB, DynamoDB, Redis, Docker, Buildkite Pipeline"
+        },
+        {
+            "title": "Software Engineer, Haupcar Company",
+            "period": "June 2019 - September 2021",
+            "location": "Bangkok, Thailand",
+            "key_achievements": [
+                "Developed core features of the Haupcar mobile app using Flutter, including search, reservation, and vehicle access functionalities.",
+                "Built an internal web application for staff and reservation management using React and Node.js."
+            ],
+            "technical_skills": "Technical Skills: Flutter, Dart, React, Angular, MongoDB, Node.js, MySQL"
+        },
+        {
+            "title": "Web Developer, Thammasat University (SIIT)",
+            "period": "August 2018 - December 2018",
+            "location": "Pathumthani, Thailand",
+            "key_achievements": [
+                "Contributed to a web-based educational platform by developing features like a student check-in system and an admin dashboard.",
+                "Gained practical experience in full-stack development using React and Node.js."
+            ],
+            "technical_skills": "React, Express, Node.js, RethinkDB"
+        }
+    ]
+}
